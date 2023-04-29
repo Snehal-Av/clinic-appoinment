@@ -50,7 +50,7 @@ const ClinicForm = () => {
                                 </div>
                                 <div className="form-check form-switch ">
                                     <label >Walk In Appointment</label>
-                                    <input className="form-check-input shadow-sm  bg-body rounded" type="checkbox" />
+                                    <input className="form-check-input" type="checkbox" />
 
                                 </div>
                                 <div className='row'>
